@@ -1,0 +1,1 @@
+gcc main.c -o main -I/opt/raylib-5.5_linux_amd64/include -L/opt/raylib-5.5_linux_amd64/lib -lraylib -lm -lpthread -ldl -lrt -lX11 && ./main
